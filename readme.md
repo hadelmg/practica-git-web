@@ -1,0 +1,2 @@
+# Proyecto de Práctica GitWeb con Gitpod
+Este es un proyecto de práctica diseñado para aprender y familiarizarse con Git y Gitpod, una herramienta que permite desarrollar aplicaciones web directamente en el navegador. En este repositorio encontrarás un entorno de desarrollo listo para usar que incluye todas las configuraciones necesarias.
